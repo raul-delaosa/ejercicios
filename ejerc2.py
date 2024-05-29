@@ -1,1 +1,1 @@
-print("Sgundo ejercicio")
+print("Modificación segundo ejercicio")
