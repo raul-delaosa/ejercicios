@@ -1,1 +1,1 @@
-print("Sgundo ejercicio")
+print("Modificación segundo ejercicio por 1.0.0")
