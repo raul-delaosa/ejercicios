@@ -1,1 +1,1 @@
-print("tercer ejercicio modficado por 1.0.0")
+print("tercer ejercicio modficado por master")
